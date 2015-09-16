@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說無崖際總持法門經
+#+DATE: 2015-08-30 20:35:24.011476
+#+PROPERTY: JUAN 0
