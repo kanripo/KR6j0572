@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:23.791991
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:31
 #+TITLE: 佛說無崖際總持法門經
 #+PROPERTY: CBETA_ID T21n1342
 #+PROPERTY: ID KR6j0572
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1342
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0572_T_001-0839a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1342¶
-
- 佛說無崖際總持法門經¶
+No. 1342¶
+佛說無崖際總持法門經¶
 ¶
 西秦沙門聖堅譯¶
 
@@ -345,8 +344,7 @@ No.1342¶
 病合為一病。若一日熱。若二日若三日若四¶
 日。若復常熱。若得眼痛。若牙齒痛。若腹內¶
 痛。若背脊痛。若復黑㿈一切惡瘡。若彼癡¶
-顛。若從日月星宿隨所得病。用此總持而¶
-加持之無不得愈。當知勝怨。若有得聞是總¶
+顛。若從日月星宿隨所得病。用此總持而加持之無不得愈。當知勝怨。若有得聞是總¶
 持經一百九十二遍者。此諸人等重病恐怖¶
 無不除愈。所以者何。過去諸佛皆用是真言¶
 擁護一切眾生。當來諸佛亦用是真言擁護
